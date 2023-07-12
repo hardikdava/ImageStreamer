@@ -1,5 +1,10 @@
 numpy
 opencv-python
 supervision
-eyeq
-git+https://github.com/hardikdava/EyeQ.git
+black
+isort
+ultralytics
+
+# flask # to use flask server
+# fastapi # to use fastapi server
+# uvicorn # to use fastapi asgi server
