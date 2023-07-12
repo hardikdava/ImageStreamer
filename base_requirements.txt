@@ -6,5 +6,8 @@ isort
 ultralytics
 
 # flask # to use flask server
+
 # fastapi # to use fastapi server
 # uvicorn # to use fastapi asgi server
+
+# sanic

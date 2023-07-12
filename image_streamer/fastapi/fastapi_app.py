@@ -1,10 +1,10 @@
 import os.path
-from pathlib import Path
 
 from fastapi import FastAPI, Request
 from fastapi.responses import HTMLResponse, StreamingResponse
 from fastapi.templating import Jinja2Templates
-from image_streamer import Vision
+
+from image_streamer.vision import Vision
 
 app = FastAPI()
 

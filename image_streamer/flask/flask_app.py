@@ -1,5 +1,6 @@
 from flask import Flask, Response, render_template
-from image_streamer import Vision
+
+from image_streamer.vision import Vision
 
 app = Flask(__name__, template_folder="../templates")
 
