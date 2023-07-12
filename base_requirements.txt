@@ -2,3 +2,4 @@ numpy
 opencv-python
 supervision
 eyeq
+git+https://github.com/hardikdava/EyeQ.git
